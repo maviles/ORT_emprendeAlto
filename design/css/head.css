@@ -1,0 +1,87 @@
+body{
+	background-image: url("../images/fondo.gif");
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	width:100%;
+	padding: 0px 0px 0px 0px;
+}
+
+.bannerMenu .divBanner{
+	margin: 0px auto -10px auto;
+	text-align: center;
+	width:980px
+}
+.bannerMenu .divBanner .divImgSuperiorBanner{
+	background-image: url("../images/header_index.png");
+	height:119px;	
+}
+.bannerMenu .divBanner .divContactoBanner{
+	height: 26px;
+	color:#FFFFFF;
+	background-color:#F01D31;
+}
+.bannerMenu .divBanner .divContactoBanner .spanContacto{
+	margin:5px 0px 0px 40px;;
+	float:left;
+}
+.bannerMenu .divBanner .divContactoBanner .spanContacto .sobre{
+	cursor:pointer;
+	float:left;
+}
+.bannerMenu .divBanner .divContactoBanner .spanContacto .txtContacto{
+	cursor:pointer;
+    margin:0px 0px 0px 10px;
+	position:absolute;
+	font-size:12px;
+	font-weight:bold;
+}
+.bannerMenu .divBanner .divContactoBanner .spanEmprendeAlto{
+	margin: 2px 20px 0px 0px;
+	float:right;
+	width:500px;
+}
+.bannerMenu .divBanner .divContactoBanner .spanEmprendeAlto .logoChico{
+	 margin: 2px 0px 0px 0px;
+	 height:18px;
+	 float:left;
+}
+.bannerMenu .divBanner .divContactoBanner .spanEmprendeAlto .txtEmprende{
+	float:left;
+	font-size:17px;
+	margin: 0px 0px 0px 5px;
+}
+
+.bannerMenu .divMenu{
+	margin: 0px auto 0px auto;
+	text-align: center;
+	width:980px;
+}
+.bannerMenu .divMenu nav{
+	background-color: rgb(218,218,220);
+	height: 37px;
+}
+.bannerMenu .divMenu nav ul{
+	padding:0;		
+}
+.bannerMenu .divMenu nav ul li{		
+	border-right:1px solid #8f8f8f;
+	display:inline-block;		
+	list-style:none;
+	height:24px;
+	margin:6px 0px 0px 20px;
+	vertical-align:middle;		
+}
+.bannerMenu .divMenu nav ul .no{		
+	border-right:none;
+}
+.bannerMenu .divMenu nav ul li a{
+	color:#e61d2b;
+	font-weight:bold;
+	font-size:12px;
+	display: inline-block;
+	padding-right:20px;
+	margin-top:5px;
+	text-decoration:none;
+	text-transform:uppercase;		
+}

@@ -1,0 +1,90 @@
+[15-Dec-2012 10:57:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/alvarado/public_html/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/alvarado/public_html/system/database/DB.php on line 140
+[15-Dec-2012 10:57:56] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/alvarado/public_html/system/database/drivers/mysql/mysql_driver.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/alvarado/public_html/system/database/DB.php on line 140
+[15-Dec-2012 12:32:04] PHP Parse error:  syntax error, unexpected ')' in /home/alvarado/public_html/application/views/casos/editar_caso.php on line 70
+[15-Dec-2012 12:32:48] PHP Parse error:  syntax error, unexpected ')' in /home/alvarado/public_html/application/views/casos/editar_caso.php on line 70
+[15-Dec-2012 22:23:56] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/alvarado/public_html/application/controllers/login.php on line 7
+[16-Dec-2012 00:22:40] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/alvarado/public_html/application/controllers/login.php on line 6
+[16-Dec-2012 00:22:50] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/alvarado/public_html/application/controllers/login.php on line 6
+[16-Dec-2012 00:22:54] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/alvarado/public_html/application/controllers/login.php on line 6
+[16-Dec-2012 18:19:17] PHP Parse error:  syntax error, unexpected ')' in /home/alvarado/public_html/application/controllers/admin.php on line 139
+[16-Dec-2012 19:10:11] PHP Parse error:  syntax error, unexpected '{' in /home/alvarado/public_html/application/views/admin/servicios.php on line 33
+[16-Dec-2012 19:40:22] PHP Fatal error:  Call to undefined method Ticket_m::get_servicio() in /home/alvarado/public_html/application/controllers/admin.php on line 150
+[16-Dec-2012 21:10:41] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:11:20] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:11:40] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:12:59] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:14:46] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:15:02] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:16:36] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:16:50] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:18:05] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:18:43] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:20:49] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:21:37] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:23:47] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:24:13] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:25:04] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:25:33] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:28:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/alvarado/public_html/application/controllers/admin.php on line 55
+[16-Dec-2012 21:28:17] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:28:51] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:29:14] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:29:41] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:31:09] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:35:37] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:37:04] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:42:56] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:43:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alvarado/public_html/application/controllers/admin.php on line 56
+[16-Dec-2012 21:43:36] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:47:38] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:48:05] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:48:17] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:48:30] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:48:43] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:48:45] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:51:25] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:55:16] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:55:19] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:56:06] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 21:56:41] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[16-Dec-2012 22:04:31] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/editar_area.php on line 27
+[17-Dec-2012 20:08:34] PHP Fatal error:  Call to undefined method Admin_m::get_empresa() in /home/alvarado/public_html/application/controllers/admin.php on line 142
+[17-Dec-2012 20:32:49] PHP Fatal error:  Call to undefined method Admin_m::get_empresa() in /home/alvarado/public_html/application/controllers/admin.php on line 142
+[17-Dec-2012 20:55:27] PHP Fatal error:  Class 'Admin_m' not found in /home/alvarado/public_html/system/core/Loader.php on line 303
+[18-Dec-2012 00:18:07] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/usuarios.php on line 39
+[18-Dec-2012 00:18:28] PHP Fatal error:  Cannot access empty property in /home/alvarado/public_html/application/views/admin/usuarios.php on line 39
+[18-Dec-2012 03:06:23] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/alvarado/public_html/application/views/admin/servicios.php on line 21
+[18-Dec-2012 06:04:12] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 46
+[18-Dec-2012 06:10:48] PHP Parse error:  syntax error, unexpected ',' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 46
+[18-Dec-2012 06:15:51] PHP Parse error:  syntax error, unexpected '/' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 46
+[18-Dec-2012 06:16:17] PHP Fatal error:  Call to undefined method stdClass::hcreacion_ticket() in /home/alvarado/public_html/application/views/ticket/ticket.php on line 46
+[18-Dec-2012 06:19:47] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 46
+[18-Dec-2012 06:20:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 46
+[18-Dec-2012 06:29:16] PHP Fatal error:  Call to undefined function  date_timestamp_get() in /home/alvarado/public_html/application/views/ticket/ticket.php on line 46
+[18-Dec-2012 06:32:35] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 34
+[18-Dec-2012 06:33:19] PHP Parse error:  syntax error, unexpected T_ARRAY in /home/alvarado/public_html/application/views/ticket/ticket.php on line 34
+[18-Dec-2012 06:34:08] PHP Parse error:  syntax error, unexpected T_STRING in /home/alvarado/public_html/application/views/ticket/ticket.php on line 35
+[18-Dec-2012 06:35:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 34
+[18-Dec-2012 06:40:38] PHP Parse error:  syntax error, unexpected ';' in /home/alvarado/public_html/application/views/ticket/ticket.php on line 34
+[18-Dec-2012 07:11:29] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/alvarado/public_html/application/controllers/casos.php on line 81
+[18-Dec-2012 07:36:46] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/alvarado/public_html/application/controllers/casos.php on line 55
+[18-Dec-2012 07:42:07] PHP Parse error:  syntax error, unexpected ';' in /home/alvarado/public_html/application/controllers/casos.php on line 79
+[18-Dec-2012 09:36:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/alvarado/public_html/application/views/casos/editar_caso.php on line 48
+[18-Dec-2012 22:21:45] PHP Parse error:  syntax error, unexpected T_RETURN in /home/alvarado/public_html/application/libraries/Usuario_actual.php on line 33
+[28-Dec-2012 00:25:06] PHP Fatal error:  Cannot redeclare Inicio::index() in /home/alvarado/public_html/application/controllers/inicio.php on line 8
+[28-Dec-2012 01:04:25] PHP Warning:  Unterminated comment starting line 229 in /home/alvarado/public_html/application/config/config.php on line 229
+[28-Dec-2012 01:04:25] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/alvarado/public_html/application/config/config.php on line 229
+[28-Dec-2012 01:05:27] PHP Warning:  Unterminated comment starting line 229 in /home/alvarado/public_html/application/config/config.php on line 229
+[28-Dec-2012 01:05:27] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/alvarado/public_html/application/config/config.php on line 229
+[03-Jan-2013 01:07:41] PHP Parse error:  syntax error, unexpected ';' in /home/alvarado/public_html/application/controllers/casos.php on line 172
+[05-Jan-2013 11:57:35] PHP Parse error:  syntax error, unexpected $end in /home/alvarado/public_html/application/controllers/admin.php on line 178
+[05-Jan-2013 17:02:05] PHP Parse error:  syntax error, unexpected '}' in /home/alvarado/public_html/application/controllers/casos.php on line 165
+[05-Jan-2013 17:55:42] PHP Fatal error:  Cannot use object of type stdClass as array in /home/alvarado/public_html/application/controllers/casos.php on line 130
+[05-Jan-2013 18:16:16] PHP Parse error:  syntax error, unexpected $end in /home/alvarado/public_html/application/views/ticket/ticket.php on line 58
+[06-Jan-2013 13:51:38] PHP Fatal error:  Call to undefined function  form_open_multipart() in /home/alvarado/public_html/application/views/admin/nueva_base.php on line 22
+[06-Jan-2013 13:51:49] PHP Fatal error:  Call to undefined function  form_open_multipart() in /home/alvarado/public_html/application/views/admin/nueva_base.php on line 22
+[07-Jan-2013 01:37:56] PHP Parse error:  syntax error, unexpected '[' in /home/alvarado/public_html/application/controllers/admin.php on line 344
+[07-Jan-2013 01:38:09] PHP Parse error:  syntax error, unexpected '[' in /home/alvarado/public_html/application/controllers/admin.php on line 344
+[02-Mar-2013 12:31:56] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/methodcl/public_html/gflores/application/controllers/admin.php on line 96
+[02-Mar-2013 12:33:54] PHP Parse error:  syntax error, unexpected T_EXIT in /home/methodcl/public_html/gflores/application/controllers/admin.php on line 44
+[02-Mar-2013 13:38:49] PHP Parse error:  syntax error, unexpected T_IF, expecting T_FUNCTION in /home/methodcl/public_html/gflores/application/controllers/admin.php on line 12
